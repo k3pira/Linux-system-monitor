@@ -1,3 +1,4 @@
 logs/*.log
+logs/monitor.log
 *.tmp
 .DS_Store
