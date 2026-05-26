@@ -57,21 +57,9 @@ LOG_ENABLED=true      # Enable/disable logging
 
 Press `CTRL+C` to exit.
 
-## Output
+## Preview
 
-[k3pira@monitor]─────────────────────────────
-scanning... 2026-05-26 17:02:51
-CPU  [▓░░░░░░░░░]  5%  [OK]
-LDA  1.85 1.81 1.60
-RAM  [▓▓░░░░░░░░] 22%  [OK]
-MEM  3502MB / 15726MB
-SWP  0MB / 2585MB
-DSK  [▓▓▓▓▓▓░░░░] 65%  [OK]  / (28G/45G)
-NET  wlan0 ↓0KB/s ↑0KB/s  [UP]
-IP   192.168.1.9
-─────────────────────────────────────────────
-STATUS >> ALL SYSTEMS NOMINAL
-refresh: 5s — CTRL+C to exit
+![monitor preview](docs/screenshots/monitor-preview.png)
 
 ## Future Improvements
 
